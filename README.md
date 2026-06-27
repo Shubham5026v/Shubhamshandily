@@ -1,17 +1,24 @@
-<<<<<<< HEAD
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,25:1a1a3e,50:302b63,75:1a1a3e,100:0a0e27&height=220&section=header&text=SHUBHAM%20SHANDILY&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=AIML%20Engineer%20%7C%20Data%20Analytics%20%7C%20Python%20%26%20SQL&descAlignY=56&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,25:1a1a3e,50:302b63,75:1a1a3e,100:0a0e27&height=260&section=header&text=SHUBHAM%20SHANDILY&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=AIML%20Engineer%20%7C%20Python%2C%20SQL%2C%20ML&descAlignY=58&descSize=20&animation=fadeIn" />
+
+<!-- Real text fallback so name + role always render even if the banner image fails to load -->
+# 👋 Hi, I'm Shubham Shandily
+### 🤖 AIML Engineer | Python, SQL, ML
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=%F0%9F%93%8A+Turning+Raw+Data+into+Decision-Ready+Insights;%F0%9F%A7%B9+Data+Cleaning+%26+Validation+Workflows;%F0%9F%A4%96+AI%2FML+Fundamentals+%26+Analytics;%F0%9F%92%BB+Python+%C2%B7+SQL+%C2%B7+Excel+%C2%B7+Reporting)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=%F0%9F%93%8A+Turning+Raw+Data+into+Decision-Ready+Insights;%F0%9F%A7%B9+Data+Cleaning+%26+Validation+Workflows;%F0%9F%A4%96+AI%2FML+Fundamentals+%26+Analytics;%F0%9F%92%BB+Python+%C2%B7+SQL+%C2%B7+Excel+%C2%B7+Reporting)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Visitor Count + Profile Badges -->
-![GitHub followers](https://img.shields.io/github/followers/ShubhamShandily?style=social)
-![GitHub stars](https://img.shields.io/github/stars/ShubhamShandily?style=social)
+<!-- Animated wave divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+<!-- Profile Badges -->
+![GitHub followers](https://img.shields.io/github/followers/Shubham5026v?style=for-the-badge&color=38BDF8&labelColor=0a0e27)
+![Profile Views](https://komarev.com/ghpvc/?username=Shubham5026v&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS)
+![GitHub stars](https://img.shields.io/github/stars/Shubham5026v?style=for-the-badge&color=38BDF8&labelColor=0a0e27)
 
 </div>
 
@@ -22,7 +29,7 @@
 ```python
 shubham = {
     "name"       : "Shubham Shandily",
-    "role"       : "AIML Engineer | Data Analytics & ML Fundamentals",
+    "role"       : "AIML Engineer | Python, SQL, ML",
     "currently"  : "AIML Engineer - Data Analytics @ WETICK",
     "focus"      : ["Data Analytics", "Data Cleaning & Validation", "Reporting Workflows",
                      "AI/ML Fundamentals", "Structured Analysis", "Business Insights"],
@@ -31,7 +38,11 @@ shubham = {
 }
 ```
 
-> *"Raw data has no value until someone makes it readable — that's the job."*
+<div align="center">
+
+> 💭 *"Raw data has no value until someone makes it readable — that's the job."*
+
+</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
@@ -133,15 +144,15 @@ shubham = {
 
 <div align="center">
 
-![Shubham's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShubhamShandily&theme=blue_navy)<br/>
-![GitHub Streak](https://streak-stats.demolab.com?user=ShubhamShandily&theme=blue-navy&hide_border=false)<br/>
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShubhamShandily&theme=blue_navy)
+![Shubham's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shubham5026v&theme=blue_navy)<br/>
+![GitHub Streak](https://streak-stats.demolab.com?user=Shubham5026v&theme=blue-navy&hide_border=false)<br/>
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shubham5026v&theme=blue_navy)
 
 </div>
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShubhamShandily&theme=react-dark&hide_border=true&area=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shubham5026v&theme=react-dark&hide_border=true&area=true)
 
 </div>
 
@@ -169,17 +180,14 @@ shubham = {
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1500&color=38BDF8&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+%E2%9A%A1;Let%27s+turn+data+into+decisions+%F0%9F%93%8A)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1500&color=38BDF8&center=true&vCenter=true&width=650&lines=Thanks+for+stopping+by!+%E2%9A%A1;Let%27s+turn+data+into+decisions+%F0%9F%93%8A)
 
 </div>
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer" />
 
 *"Every dataset tells a story. I make sure it's worth reading."*
 
 </div>
-=======
-# Shubhamshandily
->>>>>>> 9254738304077819679ee4c2e2ab1059b58a1e58
