@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 <!-- Animated Header Banner -->
@@ -179,3 +180,6 @@ shubham = {
 *"Every dataset tells a story. I make sure it's worth reading."*
 
 </div>
+=======
+# Shubhamshandily
+>>>>>>> 9254738304077819679ee4c2e2ab1059b58a1e58
